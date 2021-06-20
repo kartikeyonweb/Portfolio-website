@@ -13,7 +13,7 @@ $ git remote remove origin
 
 ```
 
-Then you can install the dependencies either using NPM:
+Then you can install the dependencies using NPM:
 
 ```
 # Install dependencies
